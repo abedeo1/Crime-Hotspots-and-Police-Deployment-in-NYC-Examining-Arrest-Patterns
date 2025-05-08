@@ -5,8 +5,7 @@ This data science project investigates arrest patterns in New York City using th
 
 
 ## Dataset 
-Link to data: ![NYC NYPD Arrest Data (Year-to-Date)](https://catalog.data.gov/dataset/nypd-arrest-data-year-to-date)
-(Picture gotten from geeksforgeeks)
+Link to data: https://catalog.data.gov/dataset/nypd-arrest-data-year-to-date
 
 Key Fields:
 - Date and time of arrest
@@ -28,6 +27,7 @@ Key Fields:
 This project follows the the data science workflow below:
 
 ![Data Pipeline](https://media.geeksforgeeks.org/wp-content/uploads/20201124094427/finalpipeline2.jpg)
+(Picture gotten from geeksforgeeks)
 
 
 
