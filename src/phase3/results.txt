@@ -1,0 +1,88 @@
+Predicting Violent Crime
+
+First choice: Logistic Regression
+Recall score:  0.980376206634748                                                
+F1 score:  0.970661537252862
+Precision score:  0.9611375065355381
+Accuracy score:  0.980376206634748
+
+Second Choice: Naive Bayes
+Recall score:  0.980376206634748                                                
+F1 score:  0.970661537252862
+Precision score:  0.9611375065355381
+Accuracy score:  0.980376206634748
+
+Third Choice: Random Forest
+Recall score:  0.980376206634748                                                
+F1 score:  0.970661537252862
+Precision score:  0.9611375065355381
+Accuracy score:  0.980376206634748
+
+Fourth Choice: Decision Tree
+Recall score:  0.980376206634748                                                
+F1 score:  0.970661537252862
+Precision score:  0.9611375065355381
+Accuracy score:  0.980376206634748
+
+Fifth Choice: SVM 
+Recall score:  0.980376206634748                                                
+F1 score:  0.970661537252862
+Precision score:  0.9611375065355381
+Accuracy score:  0.980376206634748
+
+Sixth Choice: Multi-layer Perceptron
+Recall score:  0.980376206634748                                                
+F1 score:  0.970661537252862
+Precision score:  0.9611375065355381
+Accuracy score:  0.980376206634748
+
+Seventh choice: Gradient Boosted Trees
+Recall score:  0.980376206634748                                                
+F1 score:  0.970661537252862
+Precision score:  0.9611375065355381
+Accuracy score:  0.980376206634748
+
+
+Predicting Felonies
+
+First choice: Logistic Regression
+Recall score:  0.597045972202854                                                
+F1 score:  0.4974973081100529
+Precision score:  0.6136085474143163
+Accuracy score:  0.597045972202854
+
+Second Choice: Naive Bayes
+Recall score:  0.5962286369482018                                               
+F1 score:  0.513214924639743
+Precision score:  0.5950918114835253
+Accuracy score:  0.5962286369482018
+
+Third Choice: Random Forest
+Recall score:  0.5948883620756442                                               
+F1 score:  0.47537609322249424
+Precision score:  0.6461226727764563
+Accuracy score:  0.5948883620756442
+
+Fourth Choice: Decision Tree
+Recall score:  0.5976037744619532                                               
+F1 score:  0.5083466491028942
+Precision score:  0.6039088415201668
+Accuracy score:  0.5976037744619532
+
+Fifth Choice: SVM
+Recall score:  0.5948883620756442                                               
+F1 score:  0.47537609322249424
+Precision score:  0.6461226727764563
+Accuracy score:  0.5948883620756442
+
+Sixth Choice: Multi-layer Perceptron
+Recall score:  0.5959574830722508                                               
+F1 score:  0.5128303803351075
+Precision score:  0.5944429404174574
+Accuracy score:  0.5959574830722509
+
+Seventh choice: Gradient Boosted Trees
+Recall score:  0.6068927315266738                                               
+F1 score:  0.5336228526852889
+Precision score:  0.6144716146302398
+Accuracy score:  0.6068927315266738

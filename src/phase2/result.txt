@@ -1,0 +1,106 @@
+Trying to clean the dataset and prepare the features
+Null values for each category: 
+Unnamed: 0                       0
+Arrest_Date                      0
+Police_Department_Code           0
+Offense_Description             23
+Offense_Key_Code                23
+Offense_Detailed_Description     0
+Law_Code                         0
+Offense_Category_Code            0
+Arrest_Borough                   0
+Arrest_Precinct                  0
+Jurisdiction_Code                0
+Perpetrator_Age_Group            0
+Perpetrator_Sex                  0
+Perpetrator_Race                 0
+Latitude                         3
+Longitude                        3
+Location                         0
+Arrest_Day_of_Week               0
+Arrest_Month                     0
+Arrest_Day                       0
+Arrest_Year                      0
+Is_Weekend                       0
+Is_Violent_Crime                 0
+Is_felony                        0
+dtype: int64
+
+Dataset cleaned :D
+
+Applying the algorithms for Violent Crime
+
+First choise: Logistic Regression
+Recall score:  0.6829427083333334
+F1 score:  0.053369285950497315
+Precision score:  0.027769688947716743
+Accuracy score:  0.5195036605678722
+
+Second choice: K-Nearest Neighbors
+Recall score:  0.001953125
+F1 score:  0.0038314176245210726
+Precision score:  0.1
+Accuracy score:  0.9798571926607874
+
+Third choice: Naive Bayes
+Recall score:  0.44921875
+F1 score:  0.05609072064382392
+Precision score:  0.029912862530888283
+Accuracy score:  0.7001433238214521
+
+Fourth choice: Support Vector Machine
+Recall score:  0.5299479166666666
+F1 score:  0.05317481055657173
+Precision score:  0.027991746905089408
+Accuracy score:  0.6257053210582721
+
+Fifth choice: Random Forest
+Recall score:  0.056640625
+F1 score:  0.09240573552841211
+Precision score:  0.2507204610951009
+Accuracy score:  0.9779332963187728
+
+Sixth choice: Decision Tree
+Recall score:  0.1015625
+F1 score:  0.10648464163822526
+Precision score:  0.11190817790530846
+Accuracy score:  0.9661962374268854
+
+
+Applying the algorithms for Felony
+
+First choise: Logistic Regression
+Recall score:  0.514493197695796
+F1 score:  0.4941218015685005
+Precision score:  0.4753021768052764
+Accuracy score:  0.5560706031221352
+
+Second choice: K-Nearest Neighbors
+Recall score:  0.4533031008702047
+F1 score:  0.4806367771280052
+Precision score:  0.5114783570737104
+Accuracy score:  0.5871757459940347
+
+Third choice: Naive Bayes
+Recall score:  0.48192180414266456
+F1 score:  0.4786220747999148
+Precision score:  0.4753672248080759
+Accuracy score:  0.5575554895606027
+
+Fourth choice: Support Vector Machine
+Recall score:  0.49004167177350166
+F1 score:  0.4873537298878596
+Precision score:  0.4846951145593405
+Accuracy score:  0.565560964272341
+
+Fifth choice: Random Forest
+Recall score:  0.5053621767373453
+F1 score:  0.5358001429406796
+Precision score:  0.570139657079646
+Accuracy score:  0.6309992640128088
+
+Sixth choice: Decision Tree
+Recall score:  0.5462985660007353
+F1 score:  0.5507027027027027
+Precision score:  0.5551784268543315
+Accuracy score:  0.6243624672356579
